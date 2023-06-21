@@ -96,5 +96,7 @@ d) return prime numbers
 
 Annonymous Function
 
+var prime=functioin(
+
 
     
